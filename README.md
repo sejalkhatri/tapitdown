@@ -26,6 +26,7 @@ WORKING:
   us the amount of water flowing in mililiters/sec.
 
 LOGIC:
+
 Possibility1 : So if the faucet (compass) reading is CLOSED and still our circuit gives 
                us high for a considerable amount of time than there is a leakage.
 
